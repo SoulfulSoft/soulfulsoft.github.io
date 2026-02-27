@@ -24,7 +24,7 @@ title: SoulfulSoft
 タップして画面ロック！  
 - [案内](switch_to_lock_screen/)
 - [PrivacyPolicy](switch_to_lock_screen/privacy-policy)
-- 
+
 <a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
 
 ## Windows
