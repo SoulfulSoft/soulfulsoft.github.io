@@ -2,8 +2,8 @@
 layout: privacy-policy
 title: "Privacy Policy - The Usual"
 topa: ".."
-app-specific-title: "データの保存と管理"
-app-specific: "    <p>アプリで入力されたデータおよびアプリ設定等は、原則としてユーザーの端末内に保存されます。当方のサーバーへ送信・保存されることはありません。</p>
+app-specific-title: "データの保存と管理1"
+app-specific: "    <p>2アプリで入力されたデータおよびアプリ設定等は、原則としてユーザーの端末内に保存されます。当方のサーバーへ送信・保存されることはありません。</p>
     <p>ただし、端末の紛失や機種変更時のデータ保護を目的として、Google社が提供する「Android標準バックアップ機能（Auto Backup）」を利用します。</p>
     <ul>
         <li><strong>データの保護</strong>: バックアップデータはGoogle社の管理する専用のクラウド領域に保存されます。</li>
