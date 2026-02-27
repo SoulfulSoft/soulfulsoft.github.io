@@ -28,7 +28,11 @@ title: SoulfulSoft
 <a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
 
 ## Windows
-調整中
 
+- [B-Code](https://www.vector.co.jp/soft/winnt/writing/se477684.html)
+- [Cube Scramble Generator & Timer](https://www.vector.co.jp/soft/winnt/personal/se476107.html)
+
+<!--
 ## PrivacyPolicy
 [PrivacyPolicy](https://s-jima3.github.io/privacy-policy/)
+-->
