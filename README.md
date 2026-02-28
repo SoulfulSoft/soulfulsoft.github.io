@@ -6,21 +6,6 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/X.svg" width="30" height="30" alt="X" />
 </a>
 
-<a href="https://x.com/soulfulsoft" target="_blank" rel="noopener noreferrer">
-  <i class="fa-brands fa-x-twitter"></i>
-</a>
-
-# Hi there, I'm SoulfulSoft 👋
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Web%20Developer&fontSize=40)
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=soulfulsoft&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulfulsoft&layout=compact&theme=tokyonight)
-
-## 🔗 Connect with me
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/soulfulsoft)
-
 ## Android
 ### Switch to Lock Screen
 
