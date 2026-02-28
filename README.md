@@ -10,6 +10,20 @@
   <i class="fa-brands fa-x-twitter"></i>
 </a>
 
+# Hi there, I'm [あなたの名前] 👋
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Web%20Developer&fontSize=40)
+
+## 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,python,react,nextjs,docker,aws,git,github)](https://skillicons.dev)
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザー名&layout=compact&theme=tokyonight)
+
+## 🔗 Connect with me
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/あなたのユーザー名)
+
 ## Android
 ### Switch to Lock Screen
 
