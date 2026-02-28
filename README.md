@@ -1,10 +1,6 @@
 # <img src="images/soulfulsoft.svg" alt="SoulfulSoft" width="64" /> SoulfulSoft
 
-[![X URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2FSoulfulSoft)](https://x.com/soulfulsoft)
-
-<a href="https://x.com/soulfulsoft">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/X.svg" width="30" height="30" alt="X" />
-</a>
+[![X URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
 
 ## Android
 ### Switch to Lock Screen
