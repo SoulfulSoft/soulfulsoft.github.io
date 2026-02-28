@@ -1,5 +1,15 @@
 # <img src="images/soulfulsoft.svg" alt="SoulfulSoft" width="64" /> SoulfulSoft
 
+[![X URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2FSoulfulSoft)](https://x.com/SoulfulSoft)
+
+<a href="https://x.com/SoulfulSoft">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/X.svg" width="30" height="30" alt="X" />
+</a>
+
+<a href="https://x.com/SoulfulSoft" target="_blank" rel="noopener noreferrer">
+  <i class="fa-brands fa-x-twitter"></i>
+</a>
+
 ## Android
 ### Switch to Lock Screen
 
