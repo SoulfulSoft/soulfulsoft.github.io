@@ -1,5 +1,7 @@
 # <img src="images/soulfulsoft.svg" alt="SoulfulSoft" width="64" /> SoulfulSoft
 
+Software development with a "Soulful" touch.
+
 [![X URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
 
 ## Android
