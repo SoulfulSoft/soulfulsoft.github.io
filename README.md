@@ -1,12 +1,12 @@
 # <img src="images/soulfulsoft.svg" alt="SoulfulSoft" width="64" /> SoulfulSoft
 
-[![X URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2FSoulfulSoft)](https://x.com/SoulfulSoft)
+[![X URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2FSoulfulSoft)](https://x.com/soulfulsoft)
 
-<a href="https://x.com/SoulfulSoft">
+<a href="https://x.com/soulfulsoft">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/X.svg" width="30" height="30" alt="X" />
 </a>
 
-<a href="https://x.com/SoulfulSoft" target="_blank" rel="noopener noreferrer">
+<a href="https://x.com/soulfulsoft" target="_blank" rel="noopener noreferrer">
   <i class="fa-brands fa-x-twitter"></i>
 </a>
 
@@ -19,7 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulfulsoft&layout=compact&theme=tokyonight)
 
 ## 🔗 Connect with me
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/SoulfulSoft)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/soulfulsoft)
 
 ## Android
 ### Switch to Lock Screen
