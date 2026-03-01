@@ -4,3 +4,8 @@ title: "SoulfulSoft"
 description: "soulfulz.com 別室"
 show_downloads: false
 copyright: "© SoulfulSoft (soulfulz.com)"
+
+# SNS・外部リンク設定
+social:
+  github: "https://github.com/soulful"
+  x: "https://x.com/soulfulsoft"
