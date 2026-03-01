@@ -21,21 +21,22 @@ title: SoulfulSoft
 </div>
 
 # SoulfulSoft
+
 <!--
 [![X URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
 -->
-<div style="margin-top: 30px; display: flex; gap: 10px; justify-content: center;">
-
+<!--<div style="margin-top: 30px; display: flex; gap: 10px; justify-content: center;">-->
+<div style="margin: 10px; display: flex; gap: 10px;">
+<!--
   <a href="https://github.com/soulfulsoft" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-
+-->
   <a href="https://x.com/soulfulsoft" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 
 </div>
-
 
 ## Android
 
