@@ -7,7 +7,9 @@ title: SoulfulSoft
 # <span style="vertical-align: middle;"><img src="images/soulfulsoft.svg" width="64"> SoulfulSoft</span>
 -->
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;"><img src="images/soulfulsoft.svg" height="64" alt="" /><span style=" font-size: 5vh;">SoulfulSoft</span></div>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;"><img src="images/soulfulsoft.svg" height="64" alt="" /><span style=" font-size: 5vh;">SoulfulSoft</span><br />
+Software development with a "Soulful" touch.
+</div>
 
 # SoulfulSoft
 
