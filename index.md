@@ -8,12 +8,8 @@ title: SoulfulSoft
 -->
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <div>
-    <img src="images/soulfulsoft.svg" height="64" alt="" /><span style=" font-size: 5vh;">SoulfulSoft</span>
-  </div>
-  <div>
-    Software development with a "Soulful" touch.
-  </div>
+  <img src="images/soulfulsoft.svg" height="64" alt="" /><span style=" font-size: 5vh;">SoulfulSoft</span>  
+  Software development with a "Soulful" touch.
 </div>
 
 # SoulfulSoft
