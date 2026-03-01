@@ -40,8 +40,8 @@ title: SoulfulSoft
 
 ## Windows
 
-- [B-Code](https://www.vector.co.jp/soft/winnt/writing/se477684.html)
-- [Cube Scramble Generator & Timer](https://www.vector.co.jp/soft/winnt/personal/se476107.html)
+- <a href="https://www.vector.co.jp/soft/winnt/writing/se477684.html" target="_blank" rel="noopener noreferrer">B-Code</a> : EAN(JAN),UPC等のバーコードを作成
+- <a href="https://www.vector.co.jp/soft/winnt/personal/se476107.html" target="_blank" rel="noopener noreferrer">Cube Scramble Generator & Timer</a> : ルービックキューブ用 擬似スタックメモリータイマー(スクランブル生成機能付)
 
 <!--
 ## PrivacyPolicy
