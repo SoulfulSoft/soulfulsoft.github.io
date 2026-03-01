@@ -15,7 +15,7 @@ title: SoulfulSoft
   </div>
 </div>
 
-# SoulfulSoft
+# <img src="images/soulfulsoft.svg" width="32" height="32" alt="SoulfulSoft" /> SoulfulSoft
 
 ## <img src="https://cdn.simpleicons.org/android/3DDC84" width="32" height="32" alt="Android" /> Android
 
@@ -33,7 +33,7 @@ title: SoulfulSoft
 
 <a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
 
-## Windows
+## <img src="https://cdn.simpleicons.org/windows/0078D4" width="40" height="40" alt="Windows"> Windows
 
 - <a href="https://www.vector.co.jp/soft/winnt/writing/se477684.html" target="_blank" rel="noopener noreferrer">B-Code</a> : EAN(JAN),UPC等のバーコードを作成
 - <a href="https://www.vector.co.jp/soft/winnt/personal/se476107.html" target="_blank" rel="noopener noreferrer">Cube Scramble Generator & Timer</a> : ルービックキューブ用 擬似スタックメモリータイマー(スクランブル生成機能付)
