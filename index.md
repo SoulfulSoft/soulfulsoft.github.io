@@ -3,12 +3,7 @@ layout: site-top
 title: SoulfulSoft
 ---
 
-<!--
-# <span style="vertical-align: middle;"><img src="images/soulfulsoft.svg" width="64"> SoulfulSoft</span>
--->
-
 <div style="display: flex;flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
-<!--  <div style="display: flex; align-items: center; margin-bottom: 20px;">-->
   <div style="display: flex; align-items: center;">
     <img src="images/soulfulsoft.svg" style="height: 64px; width: auto;" alt="SoulfulSoft Logo" />
     <span style="font-size: 48px; line-height: 64px; margin-left: 5px; font-weight: bold; color: #333;">
@@ -21,22 +16,6 @@ title: SoulfulSoft
 </div>
 
 # SoulfulSoft
-
-<!--
-[![X URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
--->
-<!--<div style="margin-top: 30px; display: flex; gap: 10px; justify-content: center;">-->
-<div style="margin: 10px; display: flex; gap: 10px;">
-<!--
-  <a href="https://github.com/soulfulsoft" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
--->
-  <a href="https://x.com/soulfulsoft" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-
-</div>
 
 ## Android
 
@@ -58,8 +37,3 @@ title: SoulfulSoft
 
 - <a href="https://www.vector.co.jp/soft/winnt/writing/se477684.html" target="_blank" rel="noopener noreferrer">B-Code</a> : EAN(JAN),UPC等のバーコードを作成
 - <a href="https://www.vector.co.jp/soft/winnt/personal/se476107.html" target="_blank" rel="noopener noreferrer">Cube Scramble Generator & Timer</a> : ルービックキューブ用 擬似スタックメモリータイマー(スクランブル生成機能付)
-
-<!--
-## PrivacyPolicy
-[PrivacyPolicy](https://s-jima3.github.io/privacy-policy/)
--->
