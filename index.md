@@ -9,10 +9,10 @@ title: SoulfulSoft
 
 <div style="display: flex;flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
   <div>
-    <img src="images/soulfulsoft.svg" style="height: 64px; width: auto;" alt="" /><span style=" font-size: 48px; line-height: 64px;margin-left: 15px; font-weight: bold; color: #333;">SoulfulSoft</span>  
+    <img src="images/soulfulsoft.svg" style="height: 64px; width: auto;" alt="" /><span style=" font-size: 32px; line-height: 48px;margin-left: 15px; font-weight: bold; color: #333;">SoulfulSoft</span>  
   </div>
   <div>
-    <span style=" font-size: 18px;">Software development with a "Soulful" touch.</span>
+    <span style=" font-size: 14px;">Software development with a "Soulful" touch.</span>
   </div>
 </div>
 
