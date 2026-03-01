@@ -33,6 +33,10 @@ title: SoulfulSoft
 
 <a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
 
+<img src="https://img.shields.io/badge/-?logo=windows&logoColor=0078D4&color=white" alt="Windows">
+
+<img src="https://img.shields.io/badge/-?logo=android&logoColor=3DDC84&color=white" alt="Android">
+
 ## <img src="https://cdn.simpleicons.org/windows/0078D4" width="32" height="32" alt="Windows" /> Windows
 
 - <a href="https://www.vector.co.jp/soft/winnt/writing/se477684.html" target="_blank" rel="noopener noreferrer">B-Code</a> : EAN(JAN),UPC等のバーコードを作成
