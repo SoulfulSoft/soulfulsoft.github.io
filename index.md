@@ -3,7 +3,7 @@ layout: site-top
 title: SoulfulSoft
 ---
 
-<div style="display: flex;flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: flex; align-items: center;">
     <img src="images/soulfulsoft.svg" style="height: 64px; width: auto;" alt="SoulfulSoft Logo" />
     <span style="font-size: 48px; line-height: 64px; margin-left: 5px; font-weight: bold; color: #333;">
@@ -18,6 +18,10 @@ title: SoulfulSoft
 # <img src="images/soulfulsoft.svg" width="32" height="32" alt="SoulfulSoft" /> SoulfulSoft
 
 ## <img src="https://cdn.simpleicons.org/android/3DDC84" width="32" height="32" alt="Android" /> Android
+
+<div style="display: flex; justify-content: center;">
+  ### <img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=s64-rw" width="48" alt="" /> The Usual</span>
+</div>
 
 ### <span style="vertical-align: middle;"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=s64-rw" width="48" alt="" /> The Usual</span>
 いつものフレーズを簡単に送信！  
