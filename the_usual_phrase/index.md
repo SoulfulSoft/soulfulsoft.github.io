@@ -11,8 +11,7 @@ topa: ".."
 
 ## 「いつもの」フレーズを簡単に送信
 
-### [説明書](the_usual_phrase/instructions.html)
-### [PrivacyPolicy](the_usual_phrase/privacy-policy)
+[説明書](the_usual_phrase/instructions.html) [PrivacyPolicy](the_usual_phrase/privacy-policy)
 
 **「いつもの」フレーズを、通知パネルから1タップで送信！**  
 **忙しい日常のメッセージ入力を劇的に速くする、シンプル定型文ツール。**  
