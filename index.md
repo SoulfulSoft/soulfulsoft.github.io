@@ -28,7 +28,7 @@ title: SoulfulSoft
 - [説明書](the_usual_phrase/instructions.html)
 - [PrivacyPolicy](the_usual_phrase/privacy-policy)
 
-### <span style="vertical-align: middle;"><img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" width="48" alt="" /> Switch to Lock Screen</span>
+### <a href="switch_to_lock_screen"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" width="48" alt="" /> Switch to Lock Screen</span></a>
 タップして画面ロック！  
 - [案内](switch_to_lock_screen/)
 - [PrivacyPolicy](switch_to_lock_screen/privacy-policy)
