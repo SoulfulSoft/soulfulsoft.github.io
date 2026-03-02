@@ -3,7 +3,7 @@ title: "Switch to Lock Screen"
 topa: ".."
 ---
 
-# <img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" width="128" alt="" /> Switch to Lock Screen
+# <span style=" display: flex; align-items: center; gap: 10px;"><img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" width="64" alt="" /> Switch to Lock Screen</span>
 <!--
 ![Switch to Lock Screen](https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw)
 -->
@@ -21,6 +21,8 @@ topa: ".."
 -----
 
 <a href="https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen" target="_blank"><img src="../images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
+
+- [PrivacyPolicy](privacy-policy)
 
 ## タップして画面ロック！
 
