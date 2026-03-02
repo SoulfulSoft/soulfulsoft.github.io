@@ -21,7 +21,6 @@ title: SoulfulSoft
 
 ### <a href="the_usual_phrase"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=s64-rw" width="48" alt="" /> The Usual</span></a>
 
-### <a href="the_usual_phrase"><span style="vertical-align: middle;"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=s64-rw" width="48" alt="" /> The Usual</span></a>
 いつものフレーズを簡単に送信！  
 日常のための定型文活用ツールです。  
 - [案内](the_usual_phrase/) 
