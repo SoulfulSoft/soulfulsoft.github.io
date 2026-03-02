@@ -22,10 +22,12 @@ topa: ".."
 
 <a href="https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen" target="_blank"><img src="../images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
 
-##### ドキュメント
+## ドキュメント
 - [PrivacyPolicy](privacy-policy)
 
-## タップして画面ロック！
+## 概要
+
+### タップして画面ロック！
 
 アプリをワン・タップしたらロック画面に切り替わります。  
 スマホメーカーは何万回も電源ボタンを押すテストをしていますが、それでもボタンの陥没など故障が発生するのは運が悪いのでしょうか？  
