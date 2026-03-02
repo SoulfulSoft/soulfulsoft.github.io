@@ -3,16 +3,16 @@ title: The Usual
 topa: ".."
 ---
 
-# <span style=" display: flex; align-items: center; gap: 10px;"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw" width="128" alt="" /> The Usual</span>
+# <span style=" display: flex; align-items: center; gap: 10px;"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw" width="128" alt="" /> The Usual</span><span style=" text-align: right;"><a href="https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase" target="_blank"><img src="../images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a></span>
 
 <!--
 [![The Usual](https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase)
 -->
 
+<a href="https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase" target="_blank"><img src="../images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
+
 - [説明書](the_usual_phrase/instructions.html)
 - [PrivacyPolicy](the_usual_phrase/privacy-policy)
-
-<a href="https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase" target="_blank"><img src="../images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
 
 ## 「いつもの」フレーズを簡単に送信
 
