@@ -2,6 +2,7 @@
 layout: site-top
 title: SoulfulSoft
 ---
+
 <!--
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: flex; align-items: center;">
@@ -21,11 +22,6 @@ title: SoulfulSoft
   </div>
 </div>
 
-<!--
-# <img src="images/soulfulsoft.svg" width="32" height="32" alt="SoulfulSoft" /> SoulfulSoft
--->
-
-
 ## <img src="https://cdn.simpleicons.org/android/3DDC84" width="32" height="32" alt="Android" /> Android
 
 ---
@@ -40,6 +36,8 @@ title: SoulfulSoft
 タップして画面ロック！  
 
 <a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
+
+<div style="height: 50px;"></div>
 
 ## <span style="font-size: 32px; color: #0078D4;">W</span> Windows
 
