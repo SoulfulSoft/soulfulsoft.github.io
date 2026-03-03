@@ -5,19 +5,19 @@ title: SoulfulSoft
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: flex; align-items: center;">
-    <img src="images/soulfulsoft.svg" style="height: 64px; width: auto;" alt="SoulfulSoft Logo" />
-    <span style="font-size: 48px; line-height: 64px; margin-left: 5px; font-weight: bold; color: #333;">
-      SoulfulSoft
-    </span>
+    
+# <img src="images/soulfulsoft.svg" style="height: 64px; width: auto;" alt="SoulfulSoft Logo" /><span style="font-size: 48px; line-height: 64px; margin-left: 5px; font-weight: bold; color: #333;">SoulfulSoft</span>
+
   </div>
   <div>
     <span style=" font-size: 14px;">Software development with a "Soulful" touch.</span>
   </div>
 </div>
 
+
 # <img src="images/soulfulsoft.svg" width="32" height="32" alt="SoulfulSoft" /> SoulfulSoft
 
----
+
 
 ## <img src="https://cdn.simpleicons.org/android/3DDC84" width="32" height="32" alt="Android" /> Android
 
