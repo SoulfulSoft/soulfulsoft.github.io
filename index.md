@@ -6,7 +6,7 @@ title: SoulfulSoft
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: flex; align-items: center;">
     
-<h1><img src="images/soulfulsoft.svg" style="height: 72px; width: auto;" alt="SoulfulSoft Logo" /><span style="font-size: 48px; line-height: 1; margin-left: 5px; font-weight: bold; color: #333;"> SoulfulSoft</span></h1>
+<h1><img src="images/soulfulsoft.svg" style="height: 64px; width: auto;" alt="SoulfulSoft Logo" /><span style="font-size: 48px; line-height: 64px; margin-left: 5px; padding-bottom: 10px; font-weight: bold; color: #333;"> SoulfulSoft</span></h1>
 
   </div>
   <div>
