@@ -2,12 +2,19 @@
 layout: site-top
 title: SoulfulSoft
 ---
-
+<!--
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: flex; align-items: center;">
-    
 <h1 style=" align-items: center;"><img src="images/soulfulsoft.svg" style="height: 64px; width: auto;" alt="SoulfulSoft Logo" /><span style="font-size: 48px; line-height: 64px; margin-left: 5px; font-weight: bold; color: #333;"> SoulfulSoft</span></h1>
+  </div>
+-->
 
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="images/soulfulsoft.svg" alt="SoulfulSoft Logo" style="height: 64px; width: auto; display: block; margin: 0;">
+    <h1 style="font-size: 48px; font-weight: bold; color: #333; margin: 0; padding: 0; line-height: 1; display: flex; align-items: center;">
+      SoulfulSoft
+    </h1>
   </div>
   <div>
     <span style=" font-size: 14px;">Software development with a "Soulful" touch.</span>
