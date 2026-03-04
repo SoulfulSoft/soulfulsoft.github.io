@@ -31,9 +31,13 @@ title: SoulfulSoft
 いつものフレーズを簡単に送信！  
 日常のための定型文活用ツールです。  
 
+<div style="height: 20px;"></div>
+
 ### <a href="switch_to_lock_screen"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" width="48" alt="" /> Switch to Lock Screen</span></a>
 
 タップして画面ロック！  
+
+<div style="height: 50px;"></div>
 
 <a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
 
