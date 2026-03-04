@@ -11,7 +11,7 @@ title: SoulfulSoft
 -->
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
-  <div style="display: flex; align-items: center; gap: 12px;">
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="images/soulfulsoft.svg" alt="SoulfulSoft Logo" style="height: 72px; width: auto; display: block; margin: 0;">
     <h1 style="font-size: 48px; font-weight: bold; color: #333; margin: 0; padding: 0; line-height: 1; display: flex; align-items: center;">
       SoulfulSoft
