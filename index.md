@@ -3,14 +3,6 @@ layout: site-top
 title: SoulfulSoft
 ---
 
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', '{{ site.google_analytics_id }}');
-</script>
-
 <!--
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: flex; align-items: center;">
