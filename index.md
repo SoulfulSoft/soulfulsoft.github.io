@@ -2,6 +2,7 @@
 layout: site-top
 title: SoulfulSoft
 ---
+
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
