@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <title>{{ page.title }}</title>
   <style>
@@ -24,6 +23,13 @@
       z-index: 1000; /* 他の要素より上に表示 */
     }
   </style>
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics_id }}');
+  </script>
 </head>
 <body>
 <a href="#" class="page-top">PageTop</a>
