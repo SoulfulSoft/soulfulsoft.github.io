@@ -13,8 +13,8 @@ topa: ".."
 
 ## ドキュメント
 
-- [説明書](the_usual_phrase/instructions.html)
-- [PrivacyPolicy](the_usual_phrase/privacy-policy)
+- [説明書](instructions.html)
+- [PrivacyPolicy](privacy-policy)
 
 ## 概要
 
