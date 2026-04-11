@@ -2,6 +2,7 @@
 layout: privacy-policy
 title: "Privacy Policy - S Launcher"
 topa: ".."
+date-of-enactment: "2026年04月15日"
 app-specific-title: "データの保存と管理"
 app-specific: "
     <p>アプリで入力されたデータおよびアプリ設定等は、原則としてユーザーの端末内に保存されます。当方のサーバーへ送信・保存されることはありません。</p>
