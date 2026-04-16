@@ -3,7 +3,7 @@ title: S Launcher
 topa: ".."
 ---
 
-# <span style=" display: flex; align-items: center; gap: 10px;"><img src="images\s_launcher_02.svg" width="64" alt="" /> S Launcher</span>
+# <span style=" display: flex; align-items: center; gap: 10px;"><img src="../images/s_launcher_02.svg" width="64" alt="" /> S Launcher</span>
 
 <!--
 # <span style=" display: flex; align-items: center; gap: 10px;"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw" width="64" alt="" /> S Launcher</span>
