@@ -1,5 +1,5 @@
 ---
-title: S Launcher
+title: S Launcher 説明書
 topa: ".."
 ---
 
