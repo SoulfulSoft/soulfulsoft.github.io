@@ -1,7 +1,7 @@
 # Switch to Lock Screen
 
-App  
-2026-04-17 英語に対応  
+## App
+2026-04-17 Ver1.1 英語に対応  
 
-PrivacyPolicy  
+## PrivacyPolicy
 2026-04-15 App・英語に対応  
