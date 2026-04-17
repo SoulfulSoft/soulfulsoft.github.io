@@ -5,6 +5,13 @@ Software development with a "Soulful" touch.
 [![X URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
 
 ## Android
+
+### S Launcher
+
+[![S Luncher](https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.soulfulz.soulfullauncher)
+
+<a href="https://play.google.com/store/apps/details?id=com.soulfulz.soulfullauncher" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
+
 ### Switch to Lock Screen
 
 [![Switch to Lock Screen](https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen)
