@@ -1,6 +1,5 @@
 # S Launcher
 
-
-App
+## App
 2026-04-16 審査依頼
 
