@@ -14,7 +14,8 @@ app-specific: "
         <li><strong>同期および復元に関する事項</strong>: アプリは複数の端末間でのリアルタイムなデータ同期機能を有しておりません。ただし、支援による機能拡張等の購入情報は、Google Playストアの購入履歴に基づき、同一のGoogleアカウントを使用する端末間で復元・共有することが可能です。その他のアプリ内設定等は、各端末のローカル領域およびバックアップデータとして個別に管理されます。</li>
     </ul>
 "
-app-specific-en: "<p>Data entered in the app and app settings are, in principle, saved on the user's device. They are not sent to or saved on our servers.</p>
+app-specific-en: "
+<p>Data entered in the app and app settings are, in principle, saved on the user's device. They are not sent to or saved on our servers.</p>
 
 <p>However, for the purpose of protecting data in case of device loss or device change, we use Google's "Android standard backup function (Auto Backup)."</p>
 
