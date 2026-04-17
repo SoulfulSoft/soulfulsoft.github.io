@@ -1,7 +1,7 @@
-更新履歴
+# Switch to Lock Screen
 
-App
-2026-04-17 英語に対応
+App  
+2026-04-17 英語に対応  
 
-PrivacyPolicy
-2026-04-15 App・英語に対応
+PrivacyPolicy  
+2026-04-15 App・英語に対応  
