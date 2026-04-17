@@ -15,4 +15,17 @@ app-specific: "
     </ul>
 "
 app-specific-title-en: "Data Storage and Management"
+app-specific-en: "
+    <p>Data entered in the app and app settings are, in principle, saved on the user's device. They are not sent to or saved on our servers.</p>
+    <p>However, for the purpose of protecting data in case of device loss or device change, we use Google's \"Android standard backup function (Auto Backup).\"</p>
+
+<ul>
+<li><strong>Data Protection</strong>: Backup data is stored in a dedicated cloud area managed by Google. </li>
+
+<li><strong>Developer Access Restrictions</strong>: This data is highly encrypted, and <strong>no third party, including us, can view, edit, supplement, or recover its contents.</strong></li>
+
+<li><strong>Setting Management</strong>: Users can manage whether or not backups are performed at any time from their device's OS settings (Google account backup settings). </li>
+
+<li><strong>Sync and Restore Matters</strong>: The app does not have a real-time data synchronization function between multiple devices. However, purchase information for feature enhancements and other support-based purchases can be restored and shared between devices using the same Google account, based on your Google Play Store purchase history. Other in-app settings are managed individually as local storage and backup data on each device.
+"
 ---
