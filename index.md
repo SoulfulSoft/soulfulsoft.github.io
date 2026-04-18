@@ -24,8 +24,6 @@ title: SoulfulSoft
 
 ## <img src="https://cdn.simpleicons.org/android/3DDC84" width="32" height="32" alt="Android" /> Android
 
----
-
 <div style="height: 10px;"></div>
 
 ### <a href="the_usual_phrase"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=s64-rw" width="48" alt="" /> The Usual</span></a>
@@ -47,11 +45,15 @@ title: SoulfulSoft
 
 ## <span style="font-size: 32px; color: #0078D4;">W</span> Windows
 
----
-
 <div style="height: 10px;"></div>
 
 - <a href="https://www.vector.co.jp/soft/winnt/writing/se477684.html" target="_blank" rel="noopener noreferrer">B-Code</a> : EAN(JAN),UPC等のバーコードを作成
 - <a href="https://www.vector.co.jp/soft/winnt/personal/se476107.html" target="_blank" rel="noopener noreferrer">Cube Scramble Generator & Timer</a> : ルービックキューブ用 擬似スタックメモリータイマー(スクランブル生成機能付)
+
+<!-- link to Vector begin -->
+<A HREF="https://www.vector.co.jp/">
+<IMG SRC="https://www.vector.co.jp/images/vector_b01.gif"
+ALT="Vector" WIDTH="165" HEIGHT="65" BORDER="0"></A>
+<!-- link to Vector end -->
 
 <div style="height: 80px;"></div>
