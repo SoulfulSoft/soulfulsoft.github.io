@@ -7,21 +7,17 @@ Software development with a "Soulful" touch.
 ## Android
 
 ### S Launcher
-
-近日公開
+- 近日公開
 
 ### [Switch to Lock Screen](switch_to_lock_screen)
-タップして画面ロック！  
-
-<a href="switch_to_lock_screen"><img src~"https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" height="64"></a>
-
-<a href="https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
+- タップして画面ロック！  
+  <a href="switch_to_lock_screen"><img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" height="64"></a> 
+<a href="https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" height="32"></a>
 
 ### The Usual  
-
-[![The Usual](https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase)
-
-<a href="https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
+- いつものフレーズを簡単に活用できるツール
+  <a href="the_usual_phrase"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw" heghit="64"></a>
+ <a href="https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" height="32"></a>
 
 <a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
 
