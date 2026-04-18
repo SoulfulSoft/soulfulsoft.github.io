@@ -5,6 +5,7 @@ Software development with a "Soulful" touch.
 [![X URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
 
 ## Android
+<a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
 
 ### S Launcher
 - 近日公開
@@ -18,8 +19,6 @@ Software development with a "Soulful" touch.
 - いつものフレーズを簡単に活用できるツール  
   <a href="the_usual_phrase"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw" height="64"></a> 
 <a href="https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" height="32"></a>
-
-#### <a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
 
 ## <span style="font-size: 32px; color: #0078D4;">W</span> Windows
 
