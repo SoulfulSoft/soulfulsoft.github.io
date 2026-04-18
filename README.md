@@ -15,9 +15,9 @@ Software development with a "Soulful" touch.
 <a href="https://play.google.com/store/apps/details?id=com.soulfulz.switchtolockscreen" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" height="32"></a>
 
 ### The Usual  
-- いつものフレーズを簡単に活用できるツール
-  <a href="the_usual_phrase"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw" heghit="64"></a>
- <a href="https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" height="32"></a>
+- いつものフレーズを簡単に活用できるツール  
+  <a href="the_usual_phrase"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw" height="64"></a> 
+<a href="https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" height="32"></a>
 
 <a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
 
@@ -31,6 +31,8 @@ Software development with a "Soulful" touch.
 <IMG SRC="https://www.vector.co.jp/images/vector_b01.gif"
 ALT="Vector" WIDTH="165" HEIGHT="65" BORDER="0"></A>
 <!-- link to Vector end -->
+
+---
 
 <div style="text-align: right;">
 by jima3 (soulfulz 別室)  
