@@ -1,15 +1,15 @@
 ---
-title: S Launcher 説明書
+title: Soulful Launcher 説明書
 topa: ".."
 ---
 
-# S Launcher
-### "S Launcher"のダウンロードに感謝いたします。
+# Soulful Launcher
+### "Soulful Launcher"のダウンロードに感謝いたします。
 
 まるで「貼り絵」ランチャー。 
 
 ## はじめに（概要）
-アプリ名 : S Launcher  
+アプリ名 : Soulful Launcher  
 目的 : ホーム 貼り絵ランチャー
 
 ## 簡単な説明
