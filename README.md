@@ -7,8 +7,10 @@ Software development with a "Soulful" touch.
 ## Android
 <a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
 
-### S Launcher
-- 近日公開
+### Soulful Launcher
+- 貼り絵のようなホームランチャー
+- <a href="soulful_launcher_screen"><img src="https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw" height="64"></a>
+<a href="https://play.google.com/store/apps/details?id=com.soulfulz.soulfullauncher" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" height="32"></a>
 
 ### [Switch to Lock Screen](switch_to_lock_screen)
 - タップして画面ロック！  
