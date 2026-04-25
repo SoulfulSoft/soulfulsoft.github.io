@@ -30,7 +30,7 @@ Android 12 以上
 
 ## 操作手順
 
-- 初回起動時やアイテム未登録の状態では「設定メニュー」が表示されます。
+- 初回起動時やアイテム未登録の状態では[設定メニュー](#systemmenu)が表示されます。
 - 「ウィジェットのバインド権限」が取得できていない場合、取得ダイアログが表示されるので許可してください。
 
 ### モードの切り替え (通常/編集)
@@ -40,21 +40,22 @@ Android 12 以上
 - ホームのアイコン長押しで”ホーム画面を編集”
 
 #### 通常モードへ切り替え (編集モードの終了)
-- 編集モード時の鍵アイコン (全体 (縦) 型メニューの一番上) をタップ
+- 編集モード時の[鍵アイコン (全体 (縦) 型メニューの一番上)](#editend) をタップ
 
 ### 編集モード
 #### アプリのホームへの追加
-- ドロワーのアイコンタップで表示される”ホームへ追加”(空いている場所へ自動追加)
 - ドロワーのアイコン長押しでドラッグしてホーム画面へ追加
+- ドロワーのアイコンタップで表示される”ホームへ追加”(空いている場所へ自動追加)
 
 #### 全体メニュー(縦型)
-- ![編集モードの終了](images/SoulfulLauncher_EditEnd.png) 編集モードの終了
+- <a name="editend"></a>![編集モードの終了](images/SoulfulLauncher_EditEnd.png) 編集モードの終了
 - ![編集時の背景色変更](images/SoulfulLauncher_EditLight.png) 編集時の背景色変更
 - ![ウィジェット追加](images/SoulfulLauncher_WidgetPlus.png) ウィジェット追加…
-- ![システム設定](images/SoulfulLauncher_SystemSetting.png) システム設定…
+- <a id="systemsettig"></a>![システム設定](images/SoulfulLauncher_SystemSetting.png) システム設定[…](#systemmenu)
 - ![表示順切り替え](images/SoulfulLauncher_ZOrder.png) 表示順にアイテムを切り替え
 
 #### システム設定
+<a id="systemmenu"></a>
 ##### システム
 - 標準の画面方向 縦/横
 - ラベルを表示するトグル
