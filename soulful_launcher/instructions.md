@@ -75,7 +75,7 @@ Android 12 以上
 - ![サイズ設定](images/SoulfulLauncher_Spanner.png) サイズ設定…
 - ![最前面表示On](images/SoulfulLauncher_ZOrder_On.png)![最前面表示Off](images/SoulfulLauncher_ZOrder_Off.png) 最前面表示
 - ![アイテム削除](images/SoulfulLauncher_ItemDelete.png) アイテム削除
-- ![選択終了]() 選択終了 (決定)
+- ![選択終了](images/SoulfulLauncher_Commit.png) 選択終了 (決定)
 
 #### サイズ設定
 - サイズ設定
