@@ -3,6 +3,10 @@
 [![Soulful Launcher](https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.soulfulz.soulful_launcher)
 
 ## App
+- 2026-05-01 Ver.0.9.3  
+  アプリを登録してすぐにドロワーに表示されるよう修正  
+  最前面設定の維持機能の削除  
+  画面表示スピードを少し改善  
 - 2026-04-24 Ver 0.9.2  
   画面の無限ループ機能 追加  
   簡易チュートリアル 追加  
