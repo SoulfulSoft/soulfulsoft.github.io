@@ -3,7 +3,7 @@ title: Soulful Launcher 説明書
 topa: ".."
 ---
 
-<a href="instructions_e.md">&gt;&gt; English</a>
+[&gt;&gt; English](instructions_e.md)
 
 # Soulful Launcher
 ### "Soulful Launcher"のダウンロードに感謝いたします。
