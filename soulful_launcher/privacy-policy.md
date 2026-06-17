@@ -1,6 +1,6 @@
 ---
 layout: privacy-policy
-title: "Privacy Policy - S Launcher"
+title: "Privacy Policy - Soulful Launcher"
 topa: ".."
 date-of-enactment: "2026年04月15日"
 app-specific-title: "データの保存と管理"
