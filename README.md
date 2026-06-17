@@ -12,6 +12,11 @@ Software development with a "Soulful" touch.
   <a href="soulful_launcher_screen"><img src="https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw" height="64"></a> 
 <a href="https://play.google.com/store/apps/details?id=com.soulfulz.soulfullauncher" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" height="32"></a>
 
+### [Soulful Icon Generator](soulful_icon_generator) (for Soulful Launcher)
+- Soulful Launcher 用のアダプティブアイコンを作成  
+<!--  <a href="soulful_launcher_screen"><img src="https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw" height="64"></a> -->
+<!-- <a href="https://play.google.com/store/apps/details?id=com.soulfulz.soulfullauncher" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" height="32"></a>-->
+
 ### [Switch to Lock Screen](switch_to_lock_screen)
 - タップして画面ロック！  
   <a href="switch_to_lock_screen"><img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" height="64"></a> 
