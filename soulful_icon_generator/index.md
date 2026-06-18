@@ -18,7 +18,7 @@ topa: ".."
 
 ## 概要
 
-### [Soulful Launcher](soulful_launcher) 用のアダプティブアイコンを作成
+### [Soulful Launcher](../soulful_launcher) 用のアダプティブアイコンを作成
 
 **Soulful Launcher 用に、アダプティブ表示可能なアイコンを作成！**  
 
