@@ -63,7 +63,7 @@ This app is a collage-style launcher app that primarily uses icons.
 - Standard screen orientation: Portrait/Landscape
 - Toggle to show labels
 - Toggle to bring items to the foreground
-- Toggle to maintain "always on top" setting
+<!-- - Toggle to maintain "always on top" setting -->
 ##### Support
 - Support development
 ##### Page Management
@@ -83,6 +83,11 @@ This app is a collage-style launcher app that primarily uses icons.
 - Judgment Size
 - Icon Size
 - Show/Hide Labels
+- [Select from Icon Stock](#icongenerator)
+
+<a id="icongenerator"></a>
+##### Select from Icon Stock
+- You can specify an icon created with the separate app "Soulful Icon Generator."
 
 #### Official Website
 - [Privacy Policy](https://soulfulsoft.github.io/soulful_launcher/privacy-policy.html) and all inquiries can be found on the [Official Website](https://soulfulsoft.github.io/). ## [Important] Data Backup and Transfer When Changing Devices
