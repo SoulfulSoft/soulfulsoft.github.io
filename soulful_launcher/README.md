@@ -7,7 +7,7 @@
 - 2026-05-01 Ver.0.9.3  
   
 -->
-- 2026-06-XX Ver.1.0.0  
+- 2026-06-23 Ver.1.0.0-1  
   ホーム画面アイコン変更機能追加 ([Soulful Icon Generator](soulful_icon_generator) 連帯)  
   Widgetドロワーに目安サイズ追加  
   Appドロワーに昇/降順、及び表示変更機能追加  
