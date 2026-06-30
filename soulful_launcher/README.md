@@ -1,3 +1,12 @@
+🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](README.en.md)
+
+[![Website](https://img.shields.io/badge/Website-SoulfulSoft-blue)](https://soulfulsoft.github.io)
+[![Google Play](https://img.shields.io/badge/Google_Play-Apps-brightgreen)](https://play.google.com/store/apps/developer?id=jima3)
+[![note](https://img.shields.io/badge/note-Blog-41C9B4)](https://note.com/soulfulsoft)
+[![X](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
+
+<br />
+
 # Soulful Launcher
 
 [![Soulful Launcher](https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.soulfulz.soulful_launcher)
