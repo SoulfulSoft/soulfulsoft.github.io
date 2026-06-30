@@ -43,7 +43,7 @@ title: SoulfulSoft
 
 <div style="height: 10px;"></div>
 
-### <a href="soulful_icon_generator"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw" width="48" alt="" /> Soulful Icon Generator</span></a> (for Soulful Launcher)
+### <a href="soulful_icon_generator/index.en.html"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw" width="48" alt="" /> Soulful Icon Generator</span></a> (for Soulful Launcher)
 
 - Create adaptive icons for Soulful Launcher  
 - Currently under review for Google Play release  
