@@ -51,7 +51,9 @@ ALT="Vector" WIDTH="165" HEIGHT="65" BORDER="0"></A>
 
 ## お問い合わせ
 
-<a href="contact" target="_blank" rel="noopener noreferrer">お問い合わせ</a>  
+ご意見やご感想は、今後の開発の参考にさせていただきます。  
+一つひとつ大切に読ませていただきます。  
+<a href="contact" target="_blank" rel="noopener noreferrer">こちら</a>からお願いします。  
 
 ---
 
