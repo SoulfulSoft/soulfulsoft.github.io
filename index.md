@@ -37,27 +37,27 @@ title: SoulfulSoft
 
 ### <a href="soulful_launcher"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw" width="48" alt="" /> Soulful Launcher</span></a>
 
-まるで貼り絵のホームランチャー
+- まるで貼り絵のホームランチャー
 
 <div style="height: 10px;"></div>
 
 ### <a href="soulful_icon_generator"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw" width="48" alt="" /> Soulful Icon Generator</span></a> (for Soulful Launcher)
 
-Soulful Launcher 用アダプティブ対応アイコン作成アプリ  
-GooglePlay 公開審査中
+- Soulful Launcher 用アダプティブ対応アイコン作成アプリ  
+- GooglePlay 公開審査中
 
 <div style="height: 20px;"></div>
 
 ### <a href="the_usual_phrase"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=s64-rw" width="48" alt="" /> The Usual</span></a>
 
-いつものフレーズを簡単に送信！  
-日常のための定型文活用ツールです。  
+- いつものフレーズを簡単に送信！  
+- 日常のための定型文活用ツールです。  
 
 <div style="height: 20px;"></div>
 
 ### <a href="switch_to_lock_screen"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" width="48" alt="" /> Switch to Lock Screen</span></a>
 
-タップして画面ロック！  
+- タップして画面ロック！  
 
 <div style="height: 50px;"></div>
 
