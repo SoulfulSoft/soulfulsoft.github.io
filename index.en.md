@@ -62,12 +62,8 @@ title: SoulfulSoft
 
 <div style="height: 50px;"></div>
 
-<a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
-
-<div style="height: 50px;"></div>
-
 #### Available at
-<a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
+<a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_English.svg" width="200"></a>
 
 ## Contact
 
