@@ -69,4 +69,4 @@ title: SoulfulSoft
 
 We value your feedback and comments, as they help guide our future development.  
 We read every single message carefully.  
-Please contact us <a href="contact/contact.en.md" target="_blank" rel="noopener noreferrer">here</a>.
+Please contact us <a href="contact/index.en.md" target="_blank" rel="noopener noreferrer">here</a>.
