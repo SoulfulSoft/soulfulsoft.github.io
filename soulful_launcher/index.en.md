@@ -18,7 +18,7 @@ topa: ".."
 # <span style=" display: flex; align-items: center; gap: 10px;"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw" width="64" alt="" /> Soulful Launcher</span>
 -->
 
-<a href="https://play.google.com/store/apps/details?id=com.soulfulz.soulfullauncher" target="_blank"><img src="../images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
+<a href="https://play.google.com/store/apps/details?id=com.soulfulz.soulfullauncher" target="_blank"><img src="../images/GetItOnGooglePlay_Badge_Web_color_English.svg" width="300"></a>
 
 ## Documentation
 
