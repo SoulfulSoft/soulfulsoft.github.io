@@ -3,7 +3,7 @@ title: Soulful Launcher
 topa: ".."
 ---
 
-🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](index.en.md)
+🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](index.en.html)
 
 [![Website](https://img.shields.io/badge/Website-SoulfulSoft-blue)](https://soulfulsoft.github.io)
 [![Google Play](https://img.shields.io/badge/Google_Play-Apps-brightgreen)](https://play.google.com/store/apps/developer?id=jima3)
