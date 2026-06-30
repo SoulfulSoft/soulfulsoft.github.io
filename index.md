@@ -78,4 +78,8 @@ GooglePlay 公開審査中
 ALT="Vector" WIDTH="165" HEIGHT="65" BORDER="0"></A>
 <!-- link to Vector end -->
 
-<div style="height: 80px;"></div>
+## お問い合わせ
+
+ご意見やご感想は、今後の開発の参考にさせていただきます。  
+一つひとつ大切に読ませていただきます。  
+<a href="contact" target="_blank" rel="noopener noreferrer">こちら</a>からお願いします。  
