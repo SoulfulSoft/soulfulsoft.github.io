@@ -29,7 +29,7 @@ title: SoulfulSoft
 [![note](https://img.shields.io/badge/note-Blog-41C9B4)](https://note.com/soulfulsoft)
 [![X](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
 
-<div style="height: 30px;"></div>
+<br />
 
 ## <img src="https://cdn.simpleicons.org/android/3DDC84" width="32" height="32" alt="Android" /> Android
 
