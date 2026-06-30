@@ -1,6 +1,6 @@
 ---
 title: Soulful Launcher Instruction
-topa: ".."
+topa: "../index.en.html"
 ---
 
 🌐 Language : 🇯🇵 [日本語](instructions.md) / 🇺🇸 English
