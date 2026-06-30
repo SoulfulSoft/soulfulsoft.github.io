@@ -1,6 +1,6 @@
 ---
 title: Contact & Feedback
-topa: ".."
+topa: "../index.en.html"
 ---
 
 🌐 Language : 🇯🇵 [日本語](.) / 🇺🇸 English
