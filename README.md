@@ -2,10 +2,16 @@
 
 Software development with a "Soulful" touch.
 
-[![X URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
+<!-- [![X URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft) -->
+
+🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](README.en.md)  
+
+[![Website](https://img.shields.io/badge/Website-SoulfulSoft-blue)](https://soulfulsoft.github.io)
+[![Google Play](https://img.shields.io/badge/Google_Play-Apps-brightgreen)](https://play.google.com/store/apps/developer?id=jima3)
+[![note](https://img.shields.io/badge/note-Blog-41C9B4)](https://note.com/soulfulsoft)
+[![X](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
 
 ## Android
-<a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
 
 ### [Soulful Launcher](soulful_launcher)
 - 貼り絵のようなホームランチャー  
@@ -28,19 +34,27 @@ Software development with a "Soulful" touch.
   <a href="the_usual_phrase"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=w240-h480-rw" height="64"></a> 
 <a href="https://play.google.com/store/apps/details?id=com.soulfulz.theusualphrase" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" height="32"></a>
 
+#### 公開先
+<a href="https://play.google.com/store/apps/developer?id=jima3" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="200"></a>
+
 ## <span style="font-size: 32px; color: #0078D4;">W</span> Windows
 
 - <a href="https://www.vector.co.jp/soft/winnt/writing/se477684.html" target="_blank" rel="noopener noreferrer">B-Code</a> : EAN(JAN),UPC等のバーコードを作成
 - <a href="https://www.vector.co.jp/soft/winnt/personal/se476107.html" target="_blank" rel="noopener noreferrer">Cube Scramble Generator & Timer</a> : ルービックキューブ用 擬似スタックメモリータイマー(スクランブル生成機能付)
 
+#### 公開先
 <!-- link to Vector begin -->
 <A HREF="https://www.vector.co.jp/">
 <IMG SRC="https://www.vector.co.jp/images/vector_b01.gif"
 ALT="Vector" WIDTH="165" HEIGHT="65" BORDER="0"></A>
 <!-- link to Vector end -->
 
+## お問い合わせ
+
+<a href="contact" target="_blank" rel="noopener noreferrer">お問い合わせ</a>  
+
 ---
 
 <div style="text-align: right;">
-by jima3 (soulfulz 別室)  
+by jima3 (soulfulz.com 別室)  
 </div>
