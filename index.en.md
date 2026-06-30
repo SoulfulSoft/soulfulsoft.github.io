@@ -22,7 +22,7 @@ title: SoulfulSoft
   </div>
 </div>
 
-🌐 Language : 🇯🇵 [日本語](index.md) / 🇺🇸 English
+🌐 Language : 🇯🇵 [日本語](index.html) / 🇺🇸 English
 
 [![Website](https://img.shields.io/badge/Website-SoulfulSoft-blue)](https://soulfulsoft.github.io)
 [![Google Play](https://img.shields.io/badge/Google_Play-Apps-brightgreen)](https://play.google.com/store/apps/developer?id=jima3)
@@ -37,7 +37,7 @@ title: SoulfulSoft
 
 <div style="height: 10px;"></div>
 
-### <a href="soulful_launcher"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw" width="48" alt="" /> Soulful Launcher</span></a>
+### <a href="soulful_launcher/index.en.html"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw" width="48" alt="" /> Soulful Launcher</span></a>
 
 - Home launcher that looks like a pasted picture  
 
