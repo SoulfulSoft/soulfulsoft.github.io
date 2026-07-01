@@ -9,9 +9,7 @@
 
 # Soulful Icon Generator
 
-<!--
-[![Soulful Launcher](https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.soulfulz.soulful_launcher)
--->
+[![Soulful Launcher](https://play-lh.googleusercontent.com/AgaFq8oyukgohTO_25oENaoJ_Va980tgInJfhkw1pKWorI1j7PLa3rYn48EIhamlf7f8riyC-OKze5ywxVgO=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.soulfulz.soulful_icon_generator)
 
 ## App
 - 2026-06-XX Ver 1.0.0  
