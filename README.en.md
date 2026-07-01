@@ -20,8 +20,7 @@ Software development with a "Soulful" touch.
 
 ### [Soulful Icon Generator](soulful_icon_generator) (for Soulful Launcher)
 - Create adaptive icons for Soulful Launcher  
-- Currently under review for Google Play release  
-<a href="soulful_icon_generator"><img src="https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw" height="64"></a>
+<a href="soulful_icon_generator"><img src="https://play-lh.googleusercontent.com/AgaFq8oyukgohTO_25oENaoJ_Va980tgInJfhkw1pKWorI1j7PLa3rYn48EIhamlf7f8riyC-OKze5ywxVgO=w240-h480-rw" height="64"></a>
 <a href="https://play.google.com/store/apps/details?id=com.soulfulz.soulfulicongenerator" target="_blank"><img src="images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" height="32"></a>
 
 ### [Switch to Lock Screen](switch_to_lock_screen)
