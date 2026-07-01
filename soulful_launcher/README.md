@@ -23,6 +23,9 @@
 - Added a feature to retain item information when deleting a page.
 </en-US>  
 -->
+- 2026-07-01 Ver.1.1.0
+  フィードバック機能 追加  
+  ページ削除にアイテム情報を残す、或いは完全に削除する機能を追加  
 - 2026-06-23 Ver.1.0.0-1  
   ホーム画面アイコン変更機能追加 ([Soulful Icon Generator](soulful_icon_generator) 連帯)  
   Widgetドロワーに目安サイズ追加  
