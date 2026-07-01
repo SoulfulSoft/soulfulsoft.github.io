@@ -16,6 +16,9 @@
 - 2026-05-01 Ver.0.9.3  
   
 -->
+- 2026-07-01 Ver.1.1.0  
+  Feedback function added.  
+  Added a feature to retain item information when deleting a page.  
 - 2026-06-23 Ver.1.0.0-1  
   Added a function to change home screen icons (integrated with the separate app [Soulful Icon Generator](soulful_icon_generator))  
   Added a guide size to the Widget drawer  
