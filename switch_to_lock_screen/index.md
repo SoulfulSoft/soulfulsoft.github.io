@@ -3,6 +3,15 @@ title: "Switch to Lock Screen"
 topa: ".."
 ---
 
+🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](index.en.html)
+
+[![Website](https://img.shields.io/badge/Website-SoulfulSoft-blue)](https://soulfulsoft.github.io)
+[![Google Play](https://img.shields.io/badge/Google_Play-Apps-brightgreen)](https://play.google.com/store/apps/developer?id=jima3)
+[![note](https://img.shields.io/badge/note-Blog-41C9B4)](https://note.com/soulfulsoft)
+[![X](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
+
+<br />
+
 # <span style=" display: flex; align-items: center; gap: 10px;"><img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" width="64" alt="" /> Switch to Lock Screen</span>
 <!--
 ![Switch to Lock Screen](https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw)
