@@ -16,6 +16,8 @@
 - 2026-05-01 Ver.0.9.3  
   
 -->
+- 2026-07-21 Ver.1.1.1  
+  Improve screen display speed.  
 - 2026-07-01 Ver.1.1.0  
   Feedback function added.  
   Added a feature to retain item information when deleting a page.  
