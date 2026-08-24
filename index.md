@@ -2,7 +2,7 @@
 layout: site-top
 title: SoulfulSoft
 ---
-
+{% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
 <!--
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: flex; align-items: center;">
