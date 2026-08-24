@@ -3,6 +3,10 @@ title: The Usual 説明書
 topa: ".."
 ---
 
+{% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
+
+<br />
+
 # The Usual
 ### "The Usual"のダウンロードに感謝いたします。
 
