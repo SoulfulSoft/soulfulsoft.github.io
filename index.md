@@ -2,7 +2,6 @@
 layout: site-top
 title: SoulfulSoft
 ---
-{% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
 <!--
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: flex; align-items: center;">
@@ -31,6 +30,10 @@ title: SoulfulSoft
 [![X](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
 
 <br />
+
+{% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
+
+＜br />
 
 ## <img src="https://cdn.simpleicons.org/android/3DDC84" width="32" height="32" alt="Android" /> Android
 
