@@ -22,18 +22,9 @@ title: SoulfulSoft
 </div>
 
 🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](index.en.html)  
-
-[![Website](https://img.shields.io/badge/Website-SoulfulSoft-navy)](https://soulfulsoft.github.io)
-[![Google Play](https://img.shields.io/badge/Google_Play-Apps-brightgreen)](https://play.google.com/store/apps/developer?id=jima3)
-[![note](https://img.shields.io/badge/note-Blog-41C9B4)](https://note.com/soulfulsoft)
-[![Bluesky](https://img.shields.io/badge/Bluesky-SoulfulSoft-blue)](https://bsky.app/profile/soulfulsoft.bsky.social)
-[![X](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
-
-<br />
-
 {% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
 
-＜br />
+<br />
 
 ## <img src="https://cdn.simpleicons.org/android/3DDC84" width="32" height="32" alt="Android" /> Android
 
