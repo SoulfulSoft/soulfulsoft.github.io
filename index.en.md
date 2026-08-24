@@ -25,6 +25,8 @@ title: SoulfulSoft
 🌐 Language : 🇯🇵 [日本語](index.html) / 🇺🇸 English  
 {% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
 
+<br />
+
 ## Android
 
 ## <img src="https://cdn.simpleicons.org/android/3DDC84" width="32" height="32" alt="Android" /> Android
