@@ -1,0 +1,5 @@
+[![Website](https://img.shields.io/badge/Website-SoulfulSoft-navy)](https://soulfulsoft.github.io)
+[![Google Play](https://img.shields.io/badge/Google_Play-Apps-brightgreen)](https://play.google.com/store/apps/developer?id=jima3)
+[![note](https://img.shields.io/badge/note-Blog-41C9B4)](https://note.com/soulfulsoft)
+[![Bluesky](https://img.shields.io/badge/Bluesky-SoulfulSoft-blue)](https://bsky.app/profile/soulfulsoft.bsky.social)
+[![X](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft)
