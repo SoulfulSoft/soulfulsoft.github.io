@@ -22,10 +22,8 @@ title: SoulfulSoft
   </div>
 </div>
 
-🌐 Language : 🇯🇵 [日本語](index.html) / 🇺🇸 English
+🌐 Language : 🇯🇵 [日本語](index.html) / 🇺🇸 English  
 {% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
-
-<br />
 
 ## Android
 
