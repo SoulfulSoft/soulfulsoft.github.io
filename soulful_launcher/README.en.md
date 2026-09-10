@@ -9,6 +9,8 @@
 - 2026-05-01 Ver.0.9.3  
   
 -->
+- 2026-09-10 Ver.1.1.2  
+  Adjust and control the app drawer display.  
 - 2026-07-21 Ver.1.1.1  
   Improve screen display speed.  
 - 2026-07-01 Ver.1.1.0  
