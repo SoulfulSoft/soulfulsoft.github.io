@@ -9,6 +9,11 @@
 - 2026-05-01 Ver.0.9.3  
   
 -->
+- 2026-09-24 Ver.1.2.0  
+  Addition of the following features to the app drawer (list) and discontinuation of the corresponding widgets.  
+  - App list  
+  - Switch to edit mode  
+  - Access wallpaper settings  
 - 2026-09-10 Ver.1.1.2  
   Adjust and control the app drawer display.  
 - 2026-07-21 Ver.1.1.1  
