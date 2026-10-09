@@ -9,6 +9,11 @@
 - 2026-05-01 Ver.0.9.3  
   
 -->
+- 2026-10-09 Ver.1.3.0  
+  Added features to set wallpapers for individual launcher pages and enable OS wallpaper scrolling  
+  Added the ability to access the settings screen from the app list  
+  Added options to change icon order and colors in the settings screen  
+  Various minor fixes and improvements  
 - 2026-09-24 Ver.1.2.0  
   Addition of the following features to the app drawer (list) and discontinuation of the corresponding widgets.  
   - App list  
