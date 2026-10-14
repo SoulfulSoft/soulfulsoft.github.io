@@ -59,9 +59,9 @@ This app is a collage-style launcher app that primarily uses icons.
 #### Overall Menu (Vertical)
 - ![Ending Edit Mode](images/SoulfulLauncher_EditEnd.png) Ending edit mode
 - ![Changing Background Color During Editing](images/SoulfulLauncher_EditLight.png) Changing background color during editing
-- ![Add Widget](images/SoulfulLauncher_WidgetPlus.png) Add Widget…
-- <a id="systemsettig"></a>![System Settings](images/SoulfulLauncher_SystemSetting.png) System Settings[…](#systemmenu)
-- ![Switch Display Order](images/SoulfulLauncher_ZOrder.png) Switch items in display order
+- ![Add Widget](images/widget02.png) Add Widget…
+- ![Switch Display Order](images/zinorder02.png) Switch items in display order
+- <a id="systemsettig"></a>![System Settings](images/configmenu02.png) System Settings[…](#systemmenu)
 
 <a id="systemmenu"></a>
 #### System Settings
@@ -79,10 +79,10 @@ This app is a collage-style launcher app that primarily uses icons.
 - Page navigation
 #### Item Menu (Landscape)
 - ![Cross Buttons](images/SoulfulLauncher_Move.png) Move Cross Buttons
-- ![Size Settings](images/SoulfulLauncher_Spanner.png) Size Settings...
+- ![Size Settings](images/adjustment02.png) Size Settings...
 - ![Always on Top On](images/SoulfulLauncher_ZOrder_On.png)![Always on Top Off](images/SoulfulLauncher_ZOrder_Off.png) Always on Top
 - ![Delete Item](images/SoulfulLauncher_ItemDelete.png) Delete Item
-- ![Finish Selection](images/SoulfulLauncher_Commit.png) Finish Selection (Editing) (Confirm)
+- ![Finish Selection](images/save02.png) Finish Selection (Editing) (Confirm)
 
 #### Size Settings
 - Size Settings
