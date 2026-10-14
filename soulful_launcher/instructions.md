@@ -57,9 +57,9 @@ Android 12 以上
 #### 全体メニュー(縦型)
 - ![編集モードの終了](images/SoulfulLauncher_EditEnd.png) 編集モードの終了
 - ![編集時の背景色変更](images/SoulfulLauncher_EditLight.png) 編集時の背景色変更
-- ![ウィジェット追加](images/SoulfulLauncher_WidgetPlus.png) ウィジェット追加…
-- <a id="systemsettig"></a>![システム設定](images/SoulfulLauncher_SystemSetting.png) システム設定[…](#systemmenu)
-- ![表示順切り替え](images/SoulfulLauncher_ZOrder.png) 表示順にアイテムを切り替え
+- ![ウィジェット追加](images/widget02.png) ウィジェット追加…
+- ![表示順切り替え](images/zinorder02.png) 表示順にアイテムを切り替え
+- <a id="systemsettig"></a>![システム設定](images/configmenu02.png) システム設定[…](#systemmenu)
 
 <a id="systemmenu"></a>
 #### システム設定
@@ -78,10 +78,10 @@ Android 12 以上
 
 #### アイテムメニュー(横型)
 - ![十字ボタン](images/SoulfulLauncher_Move.png) 移動 十字ボタン
-- ![サイズ設定](images/SoulfulLauncher_Spanner.png) サイズ設定…
+- ![サイズ設定](images/adjustment02.png) サイズ設定…
 - ![最前面表示On](images/SoulfulLauncher_ZOrder_On.png)![最前面表示Off](images/SoulfulLauncher_ZOrder_Off.png) 最前面表示
 - ![アイテム削除](images/SoulfulLauncher_ItemDelete.png) アイテム削除
-- ![選択終了](images/SoulfulLauncher_Commit.png) 選択(編集)終了 (決定)
+- ![選択終了](images/save02.png) 選択(編集)終了 (決定)
 
 #### サイズ設定
 - サイズ設定
