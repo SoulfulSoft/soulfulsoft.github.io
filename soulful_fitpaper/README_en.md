@@ -6,6 +6,6 @@
 
 ## App
 - 2026-10-XX Ver 1.0.0  
-  初版公開  
+  First edition released.  
 - 2026-10-15
-  公開 審査依頼
+  Request for Public Review  
