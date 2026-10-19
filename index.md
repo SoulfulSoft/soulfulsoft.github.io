@@ -40,6 +40,12 @@ title: SoulfulSoft
 
 - Soulful Launcher 用アダプティブ対応アイコン作成アプリ  
 
+<div style="height: 10px;"></div>
+
+### <a href="soulful_fitpaper"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://lh3.googleusercontent.com/UTtrViUHVa6LJWWqmFcrnN7MaMK48y0PgVSaeoMwvXIUeVE2wuiKgy2TeRn3L78fpSUWwRFYZxTML7HlJ2sSYg" width="48" alt="" /> Soulful FitPaper</span></a> (for Soulful Launcher)
+
+- Soulful Launcher 用壁紙サイズ調整アプリ  
+
 <div style="height: 20px;"></div>
 
 ### <a href="the_usual_phrase"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/0XRizqlMfVaaj48bfIkqFI5tRS8VsvOYYVgA7OfJ79YBJHDEd5b7QtSMB4K26LzCXlOUpqCHOQMCC1pC7Vd0dQ=s64-rw" width="48" alt="" /> The Usual</span></a>
