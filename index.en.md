@@ -43,6 +43,12 @@ title: SoulfulSoft
 
 - Create adaptive icons for Soulful Launcher  
 
+<div style="height: 10px;"></div>
+
+### <a href="soulful_fitpaper"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://lh3.googleusercontent.com/UTtrViUHVa6LJWWqmFcrnN7MaMK48y0PgVSaeoMwvXIUeVE2wuiKgy2TeRn3L78fpSUWwRFYZxTML7HlJ2sSYg" width="48" alt="" /> Soulful FitPaper</span></a> (for Soulful Launcher)
+
+- Wallpaper Resizing App for Soulful Launcher
+
 <div style="height: 20px;"></div>
 
 ### <a href="switch_to_lock_screen"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/gWpMGlFzeQmuf-SHLfvtNTuJ77p61TY853xL5MbW2Z40-Kd7jSqb3aS2e6syEcfL0A=w240-h480-rw" width="48" alt="" /> Switch to Lock Screen</span></a>
