@@ -9,6 +9,8 @@
 - 2026-05-01 Ver.0.9.3  
   
 -->
+- 2026-10-23 Ver.1.3.1  
+  Updates to internal settings and improvements to stability.   
 - 2026-10-09 Ver.1.3.0  
   Added features to set wallpapers for individual launcher pages and enable OS wallpaper scrolling  
   Added the ability to access the settings screen from the app list  
