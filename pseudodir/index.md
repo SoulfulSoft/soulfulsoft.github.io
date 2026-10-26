@@ -3,7 +3,7 @@ title: PseudoDir
 topa: ".."
 ---
 
-🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](index.en.html)
+🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](index.en.md)
 
 {% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
 
