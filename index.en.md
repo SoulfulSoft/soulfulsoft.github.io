@@ -27,9 +27,11 @@ title: SoulfulSoft
 
 <br />
 
-## Android
-
 ## <img src="https://cdn.simpleicons.org/android/3DDC84" width="32" height="32" alt="Android" /> Android
+
+<div style="height: 10px;"></div>
+
+<h3>Currently not public, due to various circumstances.</h3>
 
 <div style="height: 10px;"></div>
 
