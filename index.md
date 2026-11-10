@@ -30,6 +30,10 @@ title: SoulfulSoft
 
 <div style="height: 10px;"></div>
 
+<h3>諸事情により、非公開中</h3>
+
+<div style="height: 10px;"></div>
+
 ### <a href="soulful_launcher"><span style=" display: flex; align-items: center; gap: 5px;"><img src="https://play-lh.googleusercontent.com/yBXqGrAzwVJaSSN4CVKf7MfwrUO4uDAikkBysJIawJmFdi438k9D-qu-erMIrBLCu2QXUnjb66vX6OyQITB5gA=w240-h480-rw" width="48" alt="" /> Soulful Launcher</span></a>
 
 - まるで貼り絵のホームランチャー
