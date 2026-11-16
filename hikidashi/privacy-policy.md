@@ -2,7 +2,8 @@
 title: Hikidashi - PrivacyPolicy
 topa: ".."
 ---
-🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](#english)
+<!--🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](#english)-->
+<a href="#en">&gt;&gt; English</a>
 
 <!--
 # プライバシーポリシー（Hikidashi）  
@@ -134,7 +135,7 @@ SoulfulSoft（Soulfulz.com。Google Play 上のデベロッパー名：jima3。�
 
 ・ユーザーが「共有」「送る」などを操作したとき、リンクの URL やフォルダの内容を、ユーザーが選んだアプリへ引き渡します。送り先での情報の取扱いは、そのアプリに従います。  
 ・他のアプリから共有されたテキストやファイルは、ユーザーが取り込みを確認した場合にのみ、本アプリに保存されます。  
-・フォルダを「ファイルで送る」とき、送るためのファイルを端末内の一時的な領域に作成します。作成から1日を過ぎたものは、自動で削除します。  
+・フォルダを「ファイルで送る」とき、送るためのファイルを端末内の一時的な領域に作成します。この一時的なファイルは、次に送るファイルを作成するときに、作成から1日を過ぎたものを削除します（端末の仕組みにより、それ以前に削除される場合もあります）。  
 ・リンクを開くとき、ユーザーが選んだ、または端末の設定にあるブラウザやアプリを起動します。
 
 ## 6. 支援（購入）について
@@ -176,7 +177,7 @@ SoulfulSoft（Soulfulz.com。Google Play 上のデベロッパー名：jima3。�
 
 ---
 
-<a id="english"></a>
+<a name="en"> </a>
 
 # Privacy Policy (Hikidashi)
 
@@ -216,7 +217,7 @@ Of the content of the pages obtained, the app uses only the title and images, an
 
 ・When you use “Share” or “Send”, the app hands the link URL or folder contents to the app you choose. How the receiving app handles the information is governed by that app.  
 ・Text or files shared from other apps are saved in the app only when you confirm the import.  
-・When you “send a folder as a file”, the app creates a file for sending in a temporary area on your device. Files older than one day are deleted automatically.  
+・When you “send a folder as a file”, the app creates a file for sending in a temporary area on your device. These temporary files are deleted the next time a file for sending is created, once they are more than one day old (they may also be removed earlier by the device).  
 ・When you open a link, the app launches the browser or app that you chose, or that is set on your device.
 
 ## 6. Purchases
