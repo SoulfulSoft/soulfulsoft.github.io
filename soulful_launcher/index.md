@@ -3,7 +3,7 @@ title: Soulful Launcher
 topa: ".."
 ---
 
-🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](index.en.html)
+🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](index.en)
 
 {% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
 
@@ -19,7 +19,7 @@ topa: ".."
 
 ## ドキュメント
 
-- [説明書](instructions.html)
+- [説明書](instructions)
 - [PrivacyPolicy](privacy-policy)
 
 ## 概要
