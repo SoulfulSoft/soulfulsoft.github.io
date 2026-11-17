@@ -19,7 +19,7 @@ topa: ".."
 
 ## ドキュメント
 
-- [説明書](instructions.md)
+- [説明書](instructions)
 - [PrivacyPolicy](privacy-policy)
 
 ## 概要
