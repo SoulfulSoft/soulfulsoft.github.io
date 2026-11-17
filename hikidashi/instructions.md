@@ -3,7 +3,7 @@ title: Hikidashi 説明書
 topa: ".."
 ---
 
-🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](instructions_e.html)
+🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](instructions.en)
 
 {% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
 
