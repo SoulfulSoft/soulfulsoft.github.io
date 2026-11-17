@@ -1,5 +1,5 @@
 ---
-title: Soulful Launcher 説明書
+title: Hikidashi 説明書
 topa: ".."
 ---
 
