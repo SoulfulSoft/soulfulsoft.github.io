@@ -1,4 +1,4 @@
-🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](README.en.md)
+🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](README.en)
 
 # Switch to Lock Screen
 
