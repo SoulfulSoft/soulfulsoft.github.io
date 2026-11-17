@@ -2,7 +2,8 @@
 title: PseudoDir - PrivacyPolicy
 topa: ".."
 ---
-🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](#english)
+<!-- 🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](#english) -->
+<a href="#en">&gt;&gt; English</a>
 
 # プライバシーポリシー（PseudoDir - 小窓ランチャー）  
 制定日：2026年10月23日  
@@ -49,7 +50,8 @@ SoulfulSoft（Soulfulz.com。Google Play 上のデベロッパー名：jima3。�
 メールアドレス：soulfulsoft@gmail.com  
 
 <hr />
-<a id="english"></a>
+<!-- <a id="english"></a> -->
+<a name="en"></a>
 
 # Privacy Policy (PseudoDir: Popup Launcher)  
 Date of enactment: October 23, 2026  
