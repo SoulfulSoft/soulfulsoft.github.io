@@ -46,7 +46,10 @@ Features marked as **[Premium]** are available via a one-time paid purchase. All
 
 ### ① Create a Folder
 
-Tap the **+** icon in the bottom-right corner and select "**Create Folder**." Enter a name and tap "Create" to add a new folder (🗄️) to the top level. <!-- Screenshot: 01-create-folder.png -->
+Tap the **+** icon in the bottom-right corner and select "**Create Folder**." Enter a name and tap "Create" to add a new folder (🗄️) to the top level.  
+
+<!-- Screenshot: 01-create-folder.png -->
+<img src="images/01-create-folder.png" width="300" alt="Create Folder" />
 
 ### ② Saving Links
 
@@ -54,6 +57,7 @@ Open the page you wish to save in your browser (or another app), tap "**Share**,
 The title and thumbnail image will be retrieved automatically.
 
 <!-- Screenshot: 02-share-add.png -->
+<img src="images/02-share-add.png" width="300" alt="Add here" />
 
 ### ③ Organizing
 
@@ -82,6 +86,7 @@ You can **swipe** saved items left or right to flag them, mark them as read, or 
 - Use the **＋** button in the bottom-right corner to "Create folder" or "Add URL" (the "Add URL" option is only available when inside a folder).
 
 <!-- Screenshot: 03-home.png -->
+<img src="images/03-home.png" width="300" alt="Home Example" />
 
 ### Understanding Items (Links)
 
@@ -92,6 +97,8 @@ Each item is always displayed across three lines. 1. **Name** (a small red dot a
 A thumbnail image is displayed on the left. If an image cannot be retrieved, a 🔗 icon is shown instead.
 
 <!-- Screenshot: 04-item-row.png -->
+<img src="images/04-item-row.png" width="300" alt="Item Example" />
+
 
 ### Legend at the Bottom of the Screen
 
@@ -185,6 +192,7 @@ You can quickly organize items by **swiping** them left or right.
 If you release your finger before reaching an action, or if you don't drag the item far enough, nothing will happen.
 
 <!-- Screenshot: 05-swipe-stages.png -->
+<video src="images/05-swipe-stages.mp4" controls width="300"></video>  
 
 ### Actions Change Based on Drag Distance
 
@@ -205,6 +213,7 @@ If you swipe even further—beyond the threshold for the second action—an opti
 - To close the panel, tap "**✕ Close**" or use your device’s "back" gesture/button.
 
 <!-- Screenshot: 06-swipe-panel.png -->
+<img src="images/06-swipe-panel.png" width="300" alt="Swipe panel" />
 
 ### Customizing Swipe Settings
 
