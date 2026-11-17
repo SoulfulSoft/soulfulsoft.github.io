@@ -18,6 +18,7 @@ topa: "../index.en.html"
 <a href="https://play.google.com/store/apps/details?id=com.soulfulz.hikidashi" target="_blank"><img src="../images/GetItOnGooglePlay_Badge_Web_color_Japanese.svg" width="300"></a>
 
 ## Documentation
+- [Instructions](instructions.en)
 - [PrivacyPolicy](privacy-policy)
 
 ## Overview
