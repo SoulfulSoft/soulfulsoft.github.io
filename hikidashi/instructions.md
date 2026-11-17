@@ -49,7 +49,7 @@ Hikidashi（ひきだし）は、散らかりがちなリンクを、フォル�
 右下の **＋** を押して、「**フォルダを作成**」を選びます。名前を入れて「作成」を押すと、一番上の階層に、フォルダ（🗄️）ができます。
 
 <!-- スクリーンショット: 01-create-folder.png -->
-<img src="images/01-create-folder.png" height="350" alt="フォルダを作成" />
+<img src="images/01-create-folder.png" width="300" alt="フォルダを作成" />
 
 ### ② リンクを保存する
 
@@ -57,7 +57,7 @@ Hikidashi（ひきだし）は、散らかりがちなリンクを、フォル�
 タイトルとサムネイル画像は、あとから自動で取得されます。
 
 <!-- スクリーンショット: 02-share-add.png -->
-<img src="images/02-share-add.png" height="350" alt="ここに追加" />
+<img src="images/02-share-add.png" width="300" alt="ここに追加" />
 
 ### ③ 整理する
 
@@ -86,7 +86,7 @@ Hikidashi（ひきだし）は、散らかりがちなリンクを、フォル�
 - 右下の **＋** で、「フォルダを作成」と「URLを追加」ができます（「URLを追加」は、フォルダの中でだけ使えます）。
 
 <!-- スクリーンショット: 03-home.png -->
-<img src="images/03-home.png" height="350" alt="ホーム画面例" />
+<img src="images/03-home.png" width="300" alt="ホーム画面例" />
 
 ### アイテム（リンク）の見方
 
@@ -99,7 +99,7 @@ Hikidashi（ひきだし）は、散らかりがちなリンクを、フォル�
 左にサムネイル画像が出ます。画像が取得できないときは、🔗 が出ます。
 
 <!-- スクリーンショット: 04-item-row.png -->
-<img src="images/04-item-row.png" height="350" alt="アイテム画面例" />
+<img src="images/04-item-row.png" width="300" alt="アイテム画面例" />
 
 ### 画面の下の凡例
 
@@ -196,7 +196,7 @@ Hikidashi（ひきだし）は、散らかりがちなリンクを、フォル�
 
 <!-- スクリーンショット: 05-swipe-stages.png -->
 <!-- <video src="images/05-swipe-stages.mp4" controls width="100%"></video>  -->
-<video src="images/05-swipe-stages.mp4" controls height="350"></video>  
+<video src="images/05-swipe-stages.mp4" controls width="300"></video>  
 
 ### 引く距離で、操作が切り替わる
 
@@ -217,6 +217,7 @@ Hikidashi（ひきだし）は、散らかりがちなリンクを、フォル�
 - 閉じるには、「**✕ 閉じる**」を押すか、端末の戻る操作をします。
 
 <!-- スクリーンショット: 06-swipe-panel.png -->
+<img src="images/06-swipe-panel.png" width="300" alt="すべてのフラグ" />
 
 ### スワイプの設定を変える
 
