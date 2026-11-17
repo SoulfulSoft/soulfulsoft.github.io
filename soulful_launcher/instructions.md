@@ -3,7 +3,7 @@ title: Soulful Launcher 説明書
 topa: ".."
 ---
 
-🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](instructions_e.html)
+🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](instructions.en)
 
 {% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
 
@@ -96,7 +96,7 @@ Android 12 以上
 - 別アプリ Soulful Icon Generator で作成されたアイコンを指定できます。
 
 #### 公式サイト
-- [プライバシーポリシー](https://soulfulsoft.github.io/soulful_launcher/privacy-policy.html) やあらゆる問い合わせ先などは [公式サイト](https://soulfulsoft.github.io/) からお願いします。
+- [プライバシーポリシー](https://soulfulsoft.github.io/soulful_launcher/privacy-policy) やあらゆる問い合わせ先などは [公式サイト](https://soulfulsoft.github.io/) からお願いします。
 
 ## 【重要】データのバックアップと機種変更時の引き継ぎについて
 - 本アプリは、皆様のプライバシーを保護するため、サーバーを介さない設計となっております。データの保存および引き継ぎに関しては、以下の点をご確認ください。
