@@ -4,7 +4,7 @@ Software development with a "Soulful" touch.
 
 <!-- [![X URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fsoulfulsoft)](https://x.com/soulfulsoft) -->
 
-🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](README.en.md)  
+🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](README.en)  
 
 [![Website](https://img.shields.io/badge/Website-SoulfulSoft-navy)](https://soulfulsoft.github.io)
 [![Google Play](https://img.shields.io/badge/Google_Play-Apps-brightgreen)](https://play.google.com/store/apps/developer?id=jima3)
@@ -27,5 +27,7 @@ Software development with a "Soulful" touch.
 ---
 
 <div style="text-align: right;">
-by jima3 (soulfulz.com 別室)  
+
+by jima3 ( [soulfulz.com](https://soulfulz.com) 別室)  
+
 </div>
