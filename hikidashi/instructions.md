@@ -195,8 +195,8 @@ Hikidashi（ひきだし）は、散らかりがちなリンクを、フォル�
 途中で離すと、何も起きません（引く量が足りないときも、何も起きません）。
 
 <!-- スクリーンショット: 05-swipe-stages.png -->
-あ<img src="images/05-swipe-stages.gif" height="350" alt="アイテム画面例" />  
-い<video src="images/05-swipe-stages.mp4" controls width="100%"></video>  
+<!-- <video src="images/05-swipe-stages.mp4" controls width="100%"></video>  -->
+<video src="images/05-swipe-stages.mp4" controls height="350"></video>  
 
 ### 引く距離で、操作が切り替わる
 
