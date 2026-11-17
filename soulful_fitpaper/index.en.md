@@ -19,7 +19,7 @@ topa: "../index.en.html"
 
 ## Document
 
-<!-- - [Instructions](instructions.html) -->
+<!-- - [Instructions](instructions) -->
 - [Privacy Policy](privacy-policy)
 
 ## Overview
