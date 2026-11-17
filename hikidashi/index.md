@@ -3,7 +3,7 @@ title: Hikidashi
 topa: ".."
 ---
 
-🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](index.en.md)
+🌐 Language : 🇯🇵 日本語 / 🇺🇸 [English](index.en)
 
 {% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
 
