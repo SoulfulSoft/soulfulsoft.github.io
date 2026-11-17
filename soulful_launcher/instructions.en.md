@@ -3,7 +3,7 @@ title: Soulful Launcher Instruction
 topa: "../index.en.html"
 ---
 
-🌐 Language : 🇯🇵 [日本語](instructions.md) / 🇺🇸 English
+🌐 Language : 🇯🇵 [日本語](instructions) / 🇺🇸 English
 
 {% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
 
@@ -96,7 +96,7 @@ This app is a collage-style launcher app that primarily uses icons.
 - You can specify an icon created with the separate app "Soulful Icon Generator."
 
 #### Official Website
-- [Privacy Policy](https://soulfulsoft.github.io/soulful_launcher/privacy-policy.html) and all inquiries can be found on the [Official Website](https://soulfulsoft.github.io/). ## [Important] Data Backup and Transfer When Changing Devices
+- [Privacy Policy](https://soulfulsoft.github.io/soulful_launcher/privacy-policy) and all inquiries can be found on the [Official Website](https://soulfulsoft.github.io/). ## [Important] Data Backup and Transfer When Changing Devices
 - This app is designed not to use a server to protect your privacy. Please check the following points regarding data saving and transfer.
 
 ### Data Saving
