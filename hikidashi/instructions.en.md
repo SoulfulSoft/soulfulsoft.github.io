@@ -481,7 +481,8 @@ Tap "Change to custom colors..." to open a separate screen.
 
 ## 14. Premium Features and Support
 
-Core organizational features are available for **free**. The following features are part of the **Premium** version (a one-time, lifetime purchase). | Feature | Free | Premium |
+Core organizational features are available for **free**. The following features are part of the **Premium** version (a one-time, lifetime purchase).  
+| Feature | Free | Premium |
 |---|---|---|
 | Organize, search, filter, swipe, and trash folders/items | ✓ | ✓ |
 | Save from share menu; receive links (via sharing, clipboard, or files) | ✓ | ✓ |
