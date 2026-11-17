@@ -223,7 +223,8 @@ Go to the ☰ Menu and select "**Swipe Settings**." For both right and left swip
 
 ### Flags
 
-Flags are **markers** that can be applied to items. You can attach as many flags as you like to a single item. | Flag | Description |
+Flags are **markers** that can be applied to items. You can attach as many flags as you like to a single item.  
+| Flag | Description |
 |---|---|
 | 🔒 Lock | **Prevents the item from being moved to the Trash** (a safeguard against accidental deletion) |
 | 🚩 Pending Deletion | A marker for items to be reviewed later to decide whether they should be deleted |
