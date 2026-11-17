@@ -3,7 +3,7 @@ title: Hikidashi Instruction
 topa: "../index.en.html"
 ---
 
-🌐 Language : 🇯🇵 [日本語](instructions.md) / 🇺🇸 English
+🌐 Language : 🇯🇵 [日本語](instructions) / 🇺🇸 English
 
 {% capture my_content %}{% include link_icon.md %}{% endcapture %}{{ my_content | markdownify }}
 
