@@ -224,6 +224,7 @@ Go to the ☰ Menu and select "**Swipe Settings**." For both right and left swip
 ### Flags
 
 Flags are **markers** that can be applied to items. You can attach as many flags as you like to a single item.  
+
 | Flag | Description |
 |---|---|
 | 🔒 Lock | **Prevents the item from being moved to the Trash** (a safeguard against accidental deletion) |
@@ -482,6 +483,7 @@ Tap "Change to custom colors..." to open a separate screen.
 ## 14. Premium Features and Support
 
 Core organizational features are available for **free**. The following features are part of the **Premium** version (a one-time, lifetime purchase).  
+
 | Feature | Free | Premium |
 |---|---|---|
 | Organize, search, filter, swipe, and trash folders/items | ✓ | ✓ |
